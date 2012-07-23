@@ -15,6 +15,10 @@
                     {
                         "caption": "Save with UTF8",
                         "command": "save_with_utf8"
+                    },
+                    {
+                        "caption": "Toggle encode",
+                        "command": "toggle_encode"
                     }
                 ]
             }
